@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-My name is Cade and I'm a software engineer, maker and coffee enthusiast. People seem to like me because I am polite and I am rarely late.
+My name is Cade and I'm a maker, software engineer and weird coffee person. People seem to like me because I am polite and I am rarely late.
 
-Feel free to check out my website [cade.ie](https://www.cade.ie) if you'd like to contact me or learn additional things about me I guess.
+Feel free to check out my website [cade.ie](https://www.cade.ie) if you'd like to contact me or see what things I'm working on.
 
 <!--
 **CadeRyan/CadeRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
